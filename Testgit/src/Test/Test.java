@@ -7,8 +7,8 @@ public class Test {
 	int c =1000;
 	int d=800;
 	public static void main(String[] args) {
-		int a=500;
-		int b=600;
+		int a=5000;
+		int b=6000;
 		
 		Test t = new Test();
 		System.out.println(a);
